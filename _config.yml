@@ -1,0 +1,63 @@
+# Site Info
+title: NYCU - Phased Array Lab Notes
+tagline: 'A place for study and research'
+description: 'A Jekyll theme adapted from <a href="http://codinfox.github.io" target="_blank">Codinfox-Lanyon</a>. Made by <a href="http://nycu-ee.github.io" target="_blank">@nycu-ee</a>.'
+url: http://phasedarray917.github.io
+baseurl: ""
+logo: '/public/logo.png'
+
+# Site configurations
+gems:
+  - jekyll-paginate
+markdown: kramdown
+kramdown:
+  input: GFM
+excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _sass    
+paginate: 5
+paginate_path: '/blog/page:num'
+permalink: pretty
+
+version: 1.0.0
+
+# About/contact
+author:
+  name: Codinfox
+  description: A Phased Array Technology Labratory.
+  # gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  contact:
+    #linkedin:  https://www.linkedin.com/in/lizhihao
+    #github:    https://github.com/codinfox
+    # facebook:  <hide>
+    #twitter:   https://twitter.com/Li_Zhihao
+    #weibo:     http://weibo.com/41173780
+    #email:     http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
+
+# Navigation (2nd level links supported)
+nav:
+  Home:           
+    - '/'
+  Blog:           
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
+  About:          
+    - '/about/'
+  Github Project: 
+    - 'http://phasedarray917.github.io/'
+
+# Where are tags and categories displayed
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
+
+hero:
+  image: /public/img/metadata/machine_learning.png
+  caption: Original Artwork &copy; <a href="https://xkcd.com/1838/">xkcd</a> <br> Want <a href="https://nycu-ee.github.io/forbeginner/2021/01/31/beginner-tasks/">join</a> us?
+
+# Puglins
+mathjax: true # whether support mathjax
+google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
+disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
+
