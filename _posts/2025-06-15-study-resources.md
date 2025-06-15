@@ -25,27 +25,27 @@ author: Kyle Lee
 
 ## 📶 微波工程
 
-- 📝 [歷年考古題](/public/assets/courses/microwave/exams/)
+- 📝 [歷年考古題](https://github.com/phasedarray917/phasedarray917.github.io/tree/f62fed4dcd07872a6ba77b7d17a3264ca8d65d9b/public/assets/courses/microwave/exams)
 
 ---
 
 ## 💡 光通訊系統原理與應用
 
-- 🧪 [課堂作業](/public/assets/courses/optical/assignments/)
+- 🧪 [課堂作業](https://github.com/phasedarray917/phasedarray917.github.io/tree/f62fed4dcd07872a6ba77b7d17a3264ca8d65d9b/public/assets/courses/optical/assignments)
 
 ---
 
 ## ⚡ 高頻電路設計
 
-- 📝 [歷年考古題](/public/assets/courses/rf-design/exams/)
-- 🧪 [課堂作業](/public/assets/courses/rf-design/assignments/)
+- 📝 [歷年考古題]([/public/assets/courses/rf-design/exams/](https://github.com/phasedarray917/phasedarray917.github.io/tree/f62fed4dcd07872a6ba77b7d17a3264ca8d65d9b/public/assets/courses/rf-design/exams))
+- 🧪 [課堂作業](https://github.com/phasedarray917/phasedarray917.github.io/tree/f62fed4dcd07872a6ba77b7d17a3264ca8d65d9b/public/assets/courses/rf-design/assignments)
 
 ---
 
 ## 🧲 電磁數值學
 
-- 🧪 [課堂作業](/public/assets/courses/em-numerical/assignments/)
-- 📊 [模擬案例 (FDTD)](/public/assets/courses/em-numerical/simulations/)
+- 🧪 [課堂作業](https://github.com/phasedarray917/phasedarray917.github.io/tree/f62fed4dcd07872a6ba77b7d17a3264ca8d65d9b/public/assets/courses/em-numerical/assignments)
+- 📊 [模擬案例 (FDTD)](https://github.com/phasedarray917/phasedarray917.github.io/tree/f62fed4dcd07872a6ba77b7d17a3264ca8d65d9b/public/assets/courses/em-numerical/simulations)
 
 ---
 
