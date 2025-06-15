@@ -37,7 +37,7 @@ author: Kyle Lee
 
 ## ⚡ 高頻電路設計
 
-- 📝 [歷年考古題]([/public/assets/courses/rf-design/exams/](https://github.com/phasedarray917/phasedarray917.github.io/tree/f62fed4dcd07872a6ba77b7d17a3264ca8d65d9b/public/assets/courses/rf-design/exams))
+- 📝 [歷年考古題](https://github.com/phasedarray917/phasedarray917.github.io/tree/f62fed4dcd07872a6ba77b7d17a3264ca8d65d9b/public/assets/courses/rf-design/exams)
 - 🧪 [課堂作業](https://github.com/phasedarray917/phasedarray917.github.io/tree/f62fed4dcd07872a6ba77b7d17a3264ca8d65d9b/public/assets/courses/rf-design/assignments)
 
 ---
