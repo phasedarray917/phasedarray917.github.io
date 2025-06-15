@@ -18,8 +18,8 @@ author: Kyle Lee
 
 ## 📡 天線理論
 
-- 📝 [歷年考古題](/public/assets/courses/antenna/exams/)
-- 🧪 [課堂作業](/public/assets/courses/antenna/assignments/)
+- 📝 [歷年考古題](https://github.com/phasedarray917/phasedarray917.github.io/tree/11449b03a682ae8ea32a8db62acc7cf71b0f4b49/public/assets/courses/antenna/exams)
+- 🧪 [課堂作業](https://github.com/phasedarray917/phasedarray917.github.io/tree/11449b03a682ae8ea32a8db62acc7cf71b0f4b49/public/assets/courses/antenna/assignments)
 
 ---
 
