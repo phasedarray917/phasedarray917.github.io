@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wireless Power Transfer via SCMR
+title: Wireless Power Transfer(MIT)
 categories: Research 
 tags: [microwave engineering]
 ---
