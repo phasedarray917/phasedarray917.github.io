@@ -41,10 +41,10 @@ where:
 
 | Parameter     | Value |
 | ------------- | ----- |
-| Radius r      | 30 cm |
-| Height h      | 20 cm |
-| Turns n       | 5.25  |
-| Wire radius a | 3 mm  |
+| Radius $r$      | 30 cm |
+| Height $h$      | 20 cm |
+| Turns $n$       | 5.25  |
+| Wire radius $a$ | 3 mm  |
 
 # Experimental Setup
 
@@ -79,6 +79,5 @@ where:
 - 引入 自適應調諧控制（Adaptive tuning with feedback）
 
 # References
-
-1. [André Kurs et al., Wireless Power Transfer via Strongly Coupled Magnetic Resonances, Science, 317, 83–86 (2007).](https://doi.org/10.1126/science.1143254)
+- [André Kurs et al., Wireless Power Transfer via Strongly Coupled Magnetic Resonances, Science, 317, 83–86 (2007).](https://doi.org/10.1126/science.1143254)
 
