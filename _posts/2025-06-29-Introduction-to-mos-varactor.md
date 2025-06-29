@@ -33,15 +33,15 @@ MOS 電容最大的優勢是具有最大的電容密度，當需要大電容的�
 
 ### Accumulation Area
 
-此時 PMOS 的 Gate 端電壓大於 Body 端電壓。即 Vgb > 0，則 Gate 氧化層下面會吸引Nwell 中的多數載子，從而形成積累層。我們可以認為是兩個極板被隔離開，主要組成為 Gate 氧化物的電容，所以電容值較為穩定。注意在設計中一般喜歡讓 MOS 電容工作在這個區域，因為這個區域電容容值穩定，並且相比於 Inversion Area 他的高頻性能更好。
+此時 PMOS 的 Gate 端電壓大於 Body 端電壓。即 Vgb > 0，則 Gate 氧化層下面會吸引 Nwell 中的多數載子，從而形成積累層。我們可以認為是兩個極板被隔離開，主要組成為 Gate 氧化物的電容，所以電容值較為穩定。注意在設計中一般喜歡讓 MOS 電容工作在這個區域，因為這個區域電容容值穩定，並且相比於 Inversion Area 他的高頻性能更好。
 
 ### Depletion Area
 
-此時 PMOS 的 Gate 端電壓小於 Source 端電壓，但是仍然小於閾值電壓 |Vth|，即 |Vth| > |Vgs| > 0。此時用 MOS 的工作狀態是指處於 Sub-thresold Area，也就是弱反型，溝道還未形成，但 Gate 氧化層下面已經形成空乏層。此時 MOS 電容我們認為是空乏層和閘氧電容的串聯，主要由較小的空乏層電容占主導，所以電容值較小，且空乏層在未完全形成時，與電壓關聯大，所以中間一段電壓變化較為陡峭。
+此時 PMOS 的 Gate 端電壓小於 Source 端電壓，但是仍然小於閾值電壓 \|Vth\|，即 \|Vth\| > \|Vgs\| > 0。此時用 MOS 的工作狀態是指處於 Sub-thresold Area，也就是弱反型，溝道還未形成，但 Gate 氧化層下面已經形成空乏層。此時 MOS 電容我們認為是空乏層和閘氧電容的串聯，主要由較小的空乏層電容占主導，所以電容值較小，且空乏層在未完全形成時，與電壓關聯大，所以中間一段電壓變化較為陡峭。
 
 ### Inversion Area
 
-此時 PMOS 的 Gate 端電壓很小，且和 Source 端電壓差大小於閾值電壓 |Vth| ，即 |Vth| < |Vgs| 。此時 MOS 的工作狀態是處於強反型層，溝道形成，在空乏層之上。空乏區電容被溝道隔絕，此時 MOS 電容我們認為也是閘氧電容，所以與電壓變化不大。但是工作在反型區的電容高頻性能較差。
+此時 PMOS 的 Gate 端電壓很小，且和 Source 端電壓差大小於閾值電壓 \|Vth\| ，即 \|Vth\| < \|Vgs\| 。此時 MOS 的工作狀態是處於強反型層，溝道形成，在空乏層之上。空乏區電容被溝道隔絕，此時 MOS 電容我們認為也是閘氧電容，所以與電壓變化不大。但是工作在反型區的電容高頻性能較差。
 
 ## 可變電容的分類
 
@@ -75,6 +75,6 @@ MOS 電容最大的優勢是具有最大的電容密度，當需要大電容的�
 
 # References
 
-1. https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22095NCTU5435060%22.&searchmode=basic
-2. https://zhuanlan.zhihu.com/p/709425719?share_code=43vHqxT4BR35&utm_psn=1922236923080081629
+1. [https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22095NCTU5435060%22.&searchmode=basic](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id=%22095NCTU5435060%22.&searchmode=basic)
+2. [https://zhuanlan.zhihu.com/p/709425719?share_code=43vHqxT4BR35&utm_psn=1922236923080081629](https://zhuanlan.zhihu.com/p/709425719?share_code=43vHqxT4BR35&utm_psn=1922236923080081629)
 
