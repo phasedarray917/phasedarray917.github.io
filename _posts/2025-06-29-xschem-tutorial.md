@@ -9,13 +9,13 @@ author: Kyle Lee
 
 > Description:
 >
-> 這篇文章主要講述如何使用Xschem進行電路操作與模擬，並且會提供Skywater130nm 製成下，Inverter的設計與模擬教學
+> 這篇文章主要講述如何使用Xschem進行電路操作與模擬，並且會提供Skywater130nm 製程下，Inverter的設計與模擬教學
 
 <!-- more -->
 
 # Before We Start
 
-- 請先確認 Xschem 與 sky130 製程都已安裝完成
+- 請先確認 Xschem 與 sky130 製程檔都已安裝完成
 - 請先自行設定存放 Project 的資料夾
 - 在 Project 的資料夾使用 mkdir 建立名為 test_inv 的資料夾
 
@@ -49,7 +49,7 @@ echo 'source /usr/local/share/pdk/sky130B/libs.tech/xschem/xschemrc' > ./xschemr
 
 - pfet, nfet 在 sky130_fd_pr 資料夾
 
-- 選擇 pfet_01v8 與 nfet01v8
+- 選擇 pfet_01v8 與 nfet_01v8
 
 - Pulse 訊號的 SPICE 語法為 PULSE(V1 V2 TD TR PW PER NP)
 
