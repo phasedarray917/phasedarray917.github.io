@@ -79,5 +79,5 @@ where:
 - 引入 自適應調諧控制（Adaptive tuning with feedback）
 
 # References
-- [André Kurs et al., Wireless Power Transfer via Strongly Coupled Magnetic Resonances, Science, 317, 83–86 (2007).](https://doi.org/10.1126/science.1143254)
+1. [André Kurs et al., Wireless Power Transfer via Strongly Coupled Magnetic Resonances, Science, 317, 83–86 (2007).](https://doi.org/10.1126/science.1143254)
 
