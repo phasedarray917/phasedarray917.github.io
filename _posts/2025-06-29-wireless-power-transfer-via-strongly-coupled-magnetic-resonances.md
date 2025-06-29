@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wireless Power Transfer via Strongly Coupled Magnetic Resonances
+title: Wireless Power Transfer via SCMR
 categories: Research 
 tags: [microwave engineering]
 ---
