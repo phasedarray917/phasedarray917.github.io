@@ -18,11 +18,13 @@ author: Kyle Lee
 # Insertion Loss Measurement 
 
 1. 將TG sync 連結至 SA Output sync
-2. 將 TG out 跟 SA in 用線材連接
+2. 將 TG out 跟 SA in 用兩條線材連接，兩條線材中間用連接頭連接
 3. 跑完sweep後切到scalar network analysis 
 4. 跑完sweep後按下 store thru 完成calibration (每次量測前與更換線材後都要記得calibration)
-5. 線材可能不支援高頻
+5. 線材可能不支援高頻，使用前需要進行測試
 6. 待測電路的兩端要有線材連接到儀器(不要直接接在儀器的端口)
+7. 目前有兩條精密線材與兩個連接頭需要妥善保管
+8. 連接線材時如果發現扭轉吃力時，請勿繼續動作，放平退出後再連接
 
 ![png](/public/img/spike_tutorial/1.jpeg)
 
@@ -31,8 +33,9 @@ author: Kyle Lee
 1. 將 TG out 接到 directional coupler OUT
 2. 將 SA in 接到 directional coupler CPL
 3. 將 directional coupler In 保持開路
-4. 進行calibration (按下 store Thru)
-5. 將待測電路連接到 directional coupler In
+4. 目前directional coupler 頻率支援到6Ghz，使用前要注意量測頻率
+5. 進行calibration (按下 store Thru)
+6. 將待測電路連接到 directional coupler In
 
 ![png](/public/img/spike_tutorial/2.jpeg)
 
